@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+  .dashboard {
+    flex-direction: column;
+  }
+
+  .rank-table {
+    width: 100%;
+  }
+
+  .employee-card {
+    width: 100%;
+  }
+}
